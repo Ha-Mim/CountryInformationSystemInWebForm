@@ -1,0 +1,9 @@
+F:\xam\project for job\CountryInformationSystemInWebForm\CountryInformation.BLL\bin\Debug\CountryInformation.BLL.dll
+F:\xam\project for job\CountryInformationSystemInWebForm\CountryInformation.BLL\bin\Debug\CountryInformation.BLL.pdb
+F:\xam\project for job\CountryInformationSystemInWebForm\CountryInformation.BLL\bin\Debug\CountryInformation.DAL.dll
+F:\xam\project for job\CountryInformationSystemInWebForm\CountryInformation.BLL\bin\Debug\CountryInformaton.DAO.dll
+F:\xam\project for job\CountryInformationSystemInWebForm\CountryInformation.BLL\bin\Debug\CountryInformation.DAL.pdb
+F:\xam\project for job\CountryInformationSystemInWebForm\CountryInformation.BLL\bin\Debug\CountryInformaton.DAO.pdb
+F:\xam\project for job\CountryInformationSystemInWebForm\CountryInformation.BLL\obj\Debug\CountryInformation.BLL.csprojResolveAssemblyReference.cache
+F:\xam\project for job\CountryInformationSystemInWebForm\CountryInformation.BLL\obj\Debug\CountryInformation.BLL.dll
+F:\xam\project for job\CountryInformationSystemInWebForm\CountryInformation.BLL\obj\Debug\CountryInformation.BLL.pdb
